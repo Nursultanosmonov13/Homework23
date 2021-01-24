@@ -18,5 +18,7 @@ public class homework {
         else
             return "“Оставайтесь дома";
     }
+    // добавил строку
+    // добавил строку
    // public static int generateRandomAge(){........}
 }
